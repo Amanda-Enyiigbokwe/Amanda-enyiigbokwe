@@ -8,11 +8,11 @@ A personal portfolio showcasing my data analytics experience in transforming com
 
 ## About
 
-I am a data analyst with experience delivering end-to-end analytics solutions, from data engineering and modeling to interactive Power BI dashboards and business reporting. My work focuses on turning complex, multi-source datasets into structured, decision-ready insights through automated ETL pipelines, scalable data models, and intuitive visualizations deployed at enterprise scale.
+I am a data analyst with experience delivering end-to-end analytics solutions, from data engineering and modelling to interactive Power BI dashboards and business reporting. My work focuses on turning complex, multi-source datasets into structured, decision-ready insights through automated ETL pipelines, scalable data models, and intuitive visualizations deployed at enterprise scale.
 
 Core strengths include:
 
-- **Business Intelligence**: Power BI (DAX, Power Query), Excel, Deneb custom visuals
+- **Business Intelligence**: Power BI (DAX, Power Query), Excel (Pivot Tables, Advanced functions), Deneb custom visuals
 - **Programming & Analytics**: Python (Pandas, NumPy, Matplotlib, Plotly, NetworkX), SQL (CTEs, window functions)
 - **Data Engineering**: ETL automation (SSIS, SQL Server Agent), star/snowflake schema design, SCD, data warehousing
 
