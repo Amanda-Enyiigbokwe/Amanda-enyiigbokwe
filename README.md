@@ -1,6 +1,6 @@
 # Ebubechi (Amanda) Enyi-Igbokwe Portfolio
 
-[View My Portfolio](https://amanda-enyiigbokwe.github.io/about-amanda/)
+[View My Portfolio](https://amanda-enyiigbokwe.github.io/Amanda-enyiigbokwe/)
 
 A personal portfolio showcasing my data analytics experience in transforming complex, multi-source data into clear, actionable insights.
 
