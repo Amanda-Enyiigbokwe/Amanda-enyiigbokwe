@@ -2,19 +2,22 @@
 
 [View My Portfolio](https://amanda-enyiigbokwe.github.io/Amanda-enyiigbokwe/)
 
-A personal portfolio showcasing my data analytics experience in transforming complex, multi-source data into clear, actionable insights.
+A personal portfolio showcasing how I turn complex, multi-source data into structured, decision-ready insights across analytics, engineering, and machine learning.
 
 ---
 
 ## About
 
-I am a data analyst with experience delivering end-to-end analytics solutions, from data engineering and modelling to interactive Power BI dashboards and business reporting. My work focuses on turning complex, multi-source datasets into structured, decision-ready insights through automated ETL pipelines, scalable data models, and intuitive visualizations deployed at enterprise scale.
+I am a data analyst with experience delivering end-to-end analytics solutions, from BI engineering and data modelling to interactive dashboards and business reporting. My work focuses on turning complex, multi-source datasets into structured, decision-ready insights through automated ETL pipelines, scalable data models, and intuitive visualizations deployed at enterprise scale.
+
+I hold the IAPP AIGP certification, and my work extends into applied machine learning, model explainability, and responsible AI practice.
 
 Core strengths include:
 
 - **Business Intelligence**: Power BI (DAX, Power Query), Excel (Pivot Tables, Advanced functions), Deneb custom visuals
 - **Programming & Analytics**: Python (Pandas, NumPy, Matplotlib, Plotly, NetworkX), SQL (CTEs, window functions)
-- **Data Engineering**: ETL automation (SSIS, SQL Server Agent), star/snowflake schema design, SCD, data warehousing
+- **ETL**: Automation (SSIS, SQL Server Agent), star/snowflake schema design, SCD, data warehousing
+- **Machine Learning & Responsible AI**: scikit-learn, model evaluation and explainability (SHAP, LIME), classification and clustering, AI fairness and governance
 
 ---
 
@@ -22,14 +25,14 @@ Core strengths include:
 
 | Project | Type | Tools |
 |---------|------|-------|
-| [The Quiet Side of Migration](https://github.com/InsightsbyAmanda/Portfolio-projects/tree/main/Storyboard) | Data Storytelling | Infographic Design, Visual Prototyping |
-| [Redesigning Nightingale's Coxcomb](https://github.com/InsightsbyAmanda/Portfolio-projects/tree/main/Notable%20Information%20Graphic) | Interactive Visualization | Python, Pandas, NumPy, Plotly |
-| [Canada's CPI Trends](https://github.com/InsightsbyAmanda/Portfolio-projects/tree/main/cpi-inflation-analysis) | Data Visualization | Python, Pandas, Matplotlib |
-| [AI Tools & Immigrant Economic Mobility](https://github.com/InsightsbyAmanda/Portfolio-projects/tree/main/Data%20Story) | Scrollytelling | Vev, Visual Prototyping |
-| [Supplier Relationship Network Analysis](https://github.com/InsightsbyAmanda/Portfolio-projects/tree/main/Network-Analysis) | Network Analysis | Python, NetworkX, PyVis |
-| [Sales Performance & Regional Target Analysis](https://github.com/InsightsbyAmanda/Portfolio-projects/tree/main/Exploratory%20Analysis) | Exploratory Analysis | Python, Pandas, NumPy |
-| [Advanced SQL Data Analytics](https://github.com/InsightsbyAmanda/advanced-sql-analytics) | Data Analytics | SQL |
-| [SQL Data Warehouse Deployment](https://github.com/InsightsbyAmanda/sql-datawarehouse-project) | Data Engineering | SQL Server Management Studio (SSMS) |
+| [Applied Machine Learning Projects](https://github.com/Amanda-Enyiigbokwe/Applied-Machine-Learning-projects) | Machine Learning | Python, scikit-learn, SHAP, LIME |
+| [The Quiet Side of Migration](https://github.com/Amanda-Enyiigbokwe/Portfolio-projects/tree/main/Storyboard) | Data Storytelling | Infographic Design, Visual Prototyping |
+| [Redesigning Nightingale's Coxcomb](https://github.com/Amanda-Enyiigbokwe/Portfolio-projects/tree/main/Notable%20Information%20Graphic) | Interactive Visualization | Python, Pandas, NumPy, Plotly |
+| [Canada's CPI Trends](https://github.com/Amanda-Enyiigbokwe/Portfolio-projects/tree/main/cpi-inflation-analysis) | Data Visualization | Python, Pandas, Matplotlib |
+| [Supplier Relationship Network Analysis](https://github.com/Amanda-Enyiigbokwe/Portfolio-projects/tree/main/Network-Analysis) | Network Analysis | Python, NetworkX, PyVis |
+| [Sales Performance & Regional Target Analysis](https://github.com/Amanda-Enyiigbokwe/Portfolio-projects/tree/main/Exploratory%20Analysis) | Exploratory Analysis | Python, Pandas, NumPy |
+| [Advanced SQL Data Analytics](https://github.com/Amanda-Enyiigbokwe/advanced-sql-analytics) | Data Analytics | SQL |
+| [SQL Data Warehouse Deployment](https://github.com/Amanda-Enyiigbokwe/sql-datawarehouse-project) | ETL | SQL Server Management Studio (SSMS) |
 
 
 
@@ -37,7 +40,7 @@ Core strengths include:
 
 ## Tech Stack
 
-`Power BI` · `DAX` · `Data Modeling` · `SQL` · `Python` · `SSIS` · `Deneb` · `Excel` · `Pandas` · `NumPy` · `Matplotlib` · `Plotly` · `NetworkX`
+`Power BI` · `ETL` · `Data Modeling` · `SQL` · `Python` · `SSIS` · `Deneb` · `Jupyter Notebook` · `Pandas` · `NumPy` · `Matplotlib` · `Plotly` · `NetworkX` · `scikit-learn` · `LIME` · `SHAP`
 
 ---
 
